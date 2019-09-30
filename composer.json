@@ -1,0 +1,5 @@
+{
+    "require": {
+        "neoan3-apps/ops": "^1.0"
+    }
+}
